@@ -1,0 +1,2 @@
+# Fatorial
+Fatorial em C.
