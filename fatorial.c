@@ -28,7 +28,7 @@ int fatorial(){
                            printf("\nNumero e exclamacao: ");
                            scanf("%d", &dec);
                            if(dec>=0)auxdaalegria=1;
-                           else printf("\nTomar no cu eh vitamina, comi tu e tuas prima!\n");            
+                           else printf("\nTop!\n");            
     }
     while(aux==0){
     scanf(" %c", &exc);
